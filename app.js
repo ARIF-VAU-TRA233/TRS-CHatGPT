@@ -1,4 +1,4 @@
-const api = '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';
+const api = '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';
 document.addEventListener("DOMContentLoaded", function() {
 let bottom = document.querySelector(".bottom");
    let input = document.querySelector("#txt");
